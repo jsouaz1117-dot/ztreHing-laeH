@@ -1,0 +1,6 @@
+{
+  "name": "healing hrtz",
+  "description": "A minimalist frequency generator app for meditation, focus, stress relief, instrument tuning, and sound wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
